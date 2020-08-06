@@ -9,4 +9,4 @@ I do coding job in china and us, and I advocate the following:
 
 ![code beyond power, money and decent life](https://cdn.yanyueio.com/github/coding.png)
 
-**coding is pure**, just to provide a solution.
+**coding is pure**, just to provide a solution. BTW: u can find my recent status [HERE](https://major.yanyueio.com/recent/), update monthly.
