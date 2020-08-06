@@ -8,8 +8,6 @@ I am Yan Yue, major in distributed system(including cloud and big data stuff).
 
 I do coding job in china and u.s., and I advocate the following:
 
-![code beyond power, money and decent life](https://cdn.yanyueio.com/github/coding.png)
-
 <img src="https://cdn.yanyueio.com/github/coding.png" height="75%" width="75%" />
 
 **coding is pure**, just to provide a solution. 
