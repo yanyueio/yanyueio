@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-I am Yan Yue, major in distributed system(including cloud and big data stuff).
+I am Yan Yue, a newbee in Project Manager now(2020.10).
 
-* <del>my main site is: [yanyueio](https://yanyueio.com)</del> --- already shutdown
-* I write in [yanyueio.com](https://www.yanyueio.com/) --- maintain from 2020 ~ (the only one I will keep long)
-* My recent status [HERE](https://www.yanyueio.com/recent/), update monthly. 🌝
+* My Personal Portal is: [yanyueio.com](https://www.yanyueio.com/)
+* I write english blog in [major](https://major.yanyueio.com/)
+* I write chinese blog in [cnblogs-bluechip](https://cnblogs.bluechip/)
 
-I do coding job in china and u.s., and I advocate the following:
+thks for ur visit.
 
-![code beyond power, money and decent life](https://cdn.yanyueio.com/github/coding.png)
-
-
-**coding is pure**, just to provide a solution (or solve a problem). 
