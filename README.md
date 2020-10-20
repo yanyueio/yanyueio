@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Yan Yue, a newbee in Project Manager now(2020.10).
+I am Yan Yue, a Project Manager.
 
 * My personal portal is: [yanyueio.com](https://www.yanyueio.com/)
 * I write english blog in [major](https://major.yanyueio.com/)
