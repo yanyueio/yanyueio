@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Yan Yue, a Project Manager.
+I am Yan Yue, a International/Multinational Project Manager.
 
-* My personal portal is: [yanyueio.com](https://www.yanyueio.com/)
-* I write english blog in [major](https://major.yanyueio.com/)
-* I write chinese blog in [cnblogs-bluechip](https://cnblogs.com/bluechip/)
+* my website: [yanyueio.com](https://www.yanyueio.com/)
+* old Portal: [old.yanyueio.com](https://old.yanyueio.com/)
+* new Portal: [yanyueio.github.io](https://yanyueio.github.io/)
 
 thks for ur visit.
 
