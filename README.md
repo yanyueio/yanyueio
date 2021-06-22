@@ -2,9 +2,9 @@
 
 I am Yan Yue, a International/Multinational Project Manager.
 
-* my website: [yanyueio.com](https://www.yanyueio.com/)
-* old Portal: [old.yanyueio.com](https://old.yanyueio.com/)
-* new Portal: [yanyueio.github.io](https://yanyueio.github.io/)
+* Portal: [yanyueio.com](https://www.yanyueio.com/)
+* Miles: [新里程碑-New Milestones](https://www.yanyueio.com/miles)
+* Records: [Leave it to Github](https://www.yanyueio.com/records)
 
 thks for ur visit.
 
